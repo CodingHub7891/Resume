@@ -1,0 +1,45 @@
+body{
+    background-color:rgb(134, 218, 246) ;
+    
+}
+.parent{
+border: 2px  black;
+padding: 1rem;
+background-color:rgb(216, 235, 241);
+
+}
+h1{
+    font-style: italic;
+}
+.name{
+    border: 7px solid ;
+    border-color:rgb(187, 230, 244)rgb(187, 230, 244)rgb(83, 201, 240);
+    padding:1rem 2rem ;
+    background-color:rgb(187, 230, 244);
+    height: 9rem;
+}
+h3{font-style: italic;
+    border: 2px solid;
+    border-color:rgb(187, 230, 244)rgb(187, 230, 244)rgb(83, 201, 240);
+
+    border-radius: 2rem;
+    padding: 1rem;
+    background-color:rgb(187, 230, 244);
+}
+a{ font-size: 2rem;
+    color: black;
+    
+}
+.n{font-size: medium;
+    text-decoration: none;
+}
+h5{
+    border: 5px solid;
+    border-color:rgb(187, 230, 244)rgb(187, 230, 244)rgb(83, 201, 240);
+
+    padding: 1rem;
+    background-color:rgb(187, 230, 244);
+}
+.made{
+    text-align: center;
+}
